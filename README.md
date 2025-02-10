@@ -9,8 +9,7 @@ I'm a passionate web developer from Algeria, specializing in:
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/abdellah-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdellah-boukra-bettayeb-70b78514b/))
 
 ## 🏆 GitHub Stats
 ![Abdellah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdellah-dev&show_icons=true&theme=dark)
